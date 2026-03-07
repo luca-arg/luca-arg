@@ -5,10 +5,11 @@
 </div>
 
 ###
-
 <br clear="both">
 
-<h2 align="left">I'm a Computer Science student at the University of Bologna.</h2>
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&color=1572B6&center=false&vCenter=true&width=800&repeat=false&lines=I%27m+a+Computer+Science+student+at+the+University+of+Bologna." alt="Typing Subtitle" />
+</div>
 
 ###
 
