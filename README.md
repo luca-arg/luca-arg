@@ -4,7 +4,9 @@
 
 ###
 
-<p align="left">I'm a Computer Science student at the University of Bologna.</p>
+<br clear="both">
+
+<h2 align="left">I'm a Computer Science student at the University of Bologna.</h2>
 
 ###
 
