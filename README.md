@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=1572B6&center=false&vCenter=true&width=600&lines=Hi+there,+I'm+Luca!+👋;Welcome+to+my+GitHub!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=1572B6&center=false&vCenter=true&width=600&lines=Hi+there,+I%27m+Luca!" alt="Typing SVG" />
 </div>
 
 ###
@@ -41,7 +41,7 @@
 ###
 
 <div align="left">
-  <a href="https://instagram.com/luca_argentino" target="_blank">
+  <a href="https://instagram.com/luca__argentino" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discordapp.com/users/718407129157074984" target="_blank">
